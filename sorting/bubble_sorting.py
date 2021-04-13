@@ -9,5 +9,5 @@ def bubble_sorting(arr):
             break
     return arr
 
-arr = [5,3,5,6,7,3,4,1,9,8]
+arr = [1,9,8,6,5,4,3,2,7]
 print(bubble_sorting(arr))
