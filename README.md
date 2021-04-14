@@ -1,3 +1,3 @@
 # Python_Algorithm
-*Sorting*
+#*Sorting*
 <a>bubble sorting</a>
