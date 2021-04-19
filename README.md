@@ -9,3 +9,8 @@
 
 ## Search
 
+
+<li><a href = "https://github.com/rmsqor103/Python_Algorithm/blob/main/search/binary_search.py">binary_search</a></li>
+<li><a href = "https://github.com/rmsqor103/Python_Algorithm/blob/main/search/bfs.py">bfs</a></li>
+<li><a href = "https://github.com/rmsqor103/Python_Algorithm/blob/main/search/dfs.py">dfs</a></li>
+
