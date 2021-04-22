@@ -17,4 +17,5 @@
 
 <li><a href = "https://github.com/rmsqor103/Python_Algorithm/blob/main/graph/dijkstra.py">dijkstra</a></li>
 <li><a href = "https://github.com/rmsqor103/Python_Algorithm/blob/main/graph/kruskal.py">kruskal</a></li>
+<li><a href = "https://github.com/rmsqor103/Python_Algorithm/blob/main/graph/prim.py">prim</a></li>
 
