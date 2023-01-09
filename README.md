@@ -1,6 +1,6 @@
 # Python_Algorithm
 ## Sort
-
+[link](https://github.com/rmsqor103/Python_Algorithm/blob/main/sorting/bubble_sorting.py){:target="_blank"}
 <li><a href = "https://github.com/rmsqor103/Python_Algorithm/blob/main/sorting/bubble_sorting.py">bubble sorting</a></li>
 <li><a href = "https://github.com/rmsqor103/Python_Algorithm/blob/main/sorting/selection_sorting.py">selection sorting</a></li>
 <li><a href = "https://github.com/rmsqor103/Python_Algorithm/blob/main/sorting/insertion_sorting.py">insertion sorting</a></li>
